@@ -1,18 +1,17 @@
 
+import React from 'react';
 import './App.css';
 import NatBar from './components/NatBar';
 
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <NatBar/>
-
-   
-
-
     </div>
   );
 }
 
 export default App;
+
