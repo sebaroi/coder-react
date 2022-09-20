@@ -25,7 +25,7 @@ const NatBar = () => {
 
         <Secciones />
       </ul>
-    <FormSearch />
+    <FormSearch busqueda='Buscar Producto' TextoBoton='Buscar'/>
     </div>
   </div>
 </nav>
