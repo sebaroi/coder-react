@@ -1,6 +1,6 @@
 import React from 'react';
-import '../components/Footer.css';
-import FormSearch from './FormSearch';
+import '../../styles/Footer.css';
+import FormSearch from '../layouts/FormSearch';
 
 const Footer = () => {
     return (

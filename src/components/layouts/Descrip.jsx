@@ -1,5 +1,5 @@
 import React from 'react';
-import '../components/Descrip.css'
+import '../../styles/Descrip.css'
 const Descrip = () => {
     return (
         <div>
